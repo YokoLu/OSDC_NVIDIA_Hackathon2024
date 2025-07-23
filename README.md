@@ -6,5 +6,5 @@ With access to a 10GB GPU, we processed an 8.52GB dataset containing 11 million 
 
 Leadership Board: https://www.kaggle.com/competitions/odsc-2024-nvidia-hackathon/leaderboard
 
-Overview: https://www.kaggle.com/competitions/odsc-2024-nvidia-hackathon/overview
+
 
